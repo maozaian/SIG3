@@ -1,0 +1,12 @@
+controller\Controller.class
+view\NewItemDialog.class
+view\myFrame$1.class
+view\myFrame$3.class
+model\InvoiceHeaderTableModel.class
+model\InvoiceHeader.class
+model\InvoiceLine.class
+view\NewInvoiceDialog.class
+view\myFrame.class
+view\myFrame$2.class
+model\InvoiceLineTableModel.class
+view\myFrame$4.class
